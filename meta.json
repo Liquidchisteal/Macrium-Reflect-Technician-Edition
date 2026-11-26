@@ -1,0 +1,23 @@
+{
+  "repo": "macrium-reflect-technician-edition",
+  "product": "Macrium Reflect Technician Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "macrium-reflect-technician",
+    "macrium-reflect",
+    "how-to-install-macrium-reflect",
+    "how-to-setup-macrium-reflect",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "macrium-technician",
+    "macrium-reflect-technician-edition"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Macrium Reflect Technician Edition"
+}
